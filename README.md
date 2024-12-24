@@ -4,6 +4,12 @@ Practice data analysis project using  Excel
 
 Welcome to the **Supershop Sales Data Dashboard** project! This is my **first data analysis project**, developed as a **practice exercise** to demonstrate my data analysis and visualization skills. The dataset was generated using **ChatGPT** through detailed prompts, and the entire analysis and dashboard were created using **Microsoft Excel**.
 
+
+# Supershop Sales Data Dashboard
+
+## Dashboard Visuals
+![Sales Trends](Images/Supershop%20Data%20Analysis%20Part%201.PNG)
+![Customer Segmentation](Images/Supershop%20Data%20Analysis%20part%202.PNG)
 ## 📊 Dashboard Overview
 
 The dashboard provides key insights into:
